@@ -26,7 +26,7 @@ SECRET_KEY = 'paszk*%_h7&g&k4js6e1nt1x)kx@@y7q+z-3v+j!b3fabnx5m@'
 ALLOWED_HOSTS = ['learning-log.herokuapp.com']
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
